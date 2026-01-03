@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css'
-import RazorpayX from "./assets/RazorpayX.svg";
+import RazorpayX from "./assets/razorpayX.svg";
 import indianFlag from "./assets/indianFlag.webp";
 import { FaArrowRight } from 'react-icons/fa';
 import hero from "./assets/hero.jpg";
