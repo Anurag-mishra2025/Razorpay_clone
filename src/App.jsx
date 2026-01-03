@@ -85,7 +85,7 @@ function App() {
         <li className="text-white py-7 font-mollish hover:text-blue-400 cursor-pointer transition-all duration-200 relative group"> <a href="#"> Payment</a>
           <div className=" absolute bottom-0  w-full h-1 bg-blue-400 hidden group-hover:block transition-all duration-200 "></div>
           </li>
-          <li className="text-white py-7 font-mollish hover:text-blue-400 cursor-pointer transition-all duration-200 relative group"> <a href="#"> Banking</a>
+          <li className="text-white py-7 font-mollish hover:text-blue-400 cursor-pointer transition-all duration-200 relative group"> <a href="#"> your  Banking</a>
              <div className=" absolute bottom-0  w-full h-1 bg-blue-400 hidden group-hover:block transition-all duration-200 "></div>
           </li>
           <li className="text-white py-7 font-mollish hover:text-blue-400 cursor-pointer transition-all duration-200 relative group"> <a href="#"> Corporate Card </a>
